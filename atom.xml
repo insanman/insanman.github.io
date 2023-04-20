@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>散漫博客</title>
   
   
   <link href="http://insanman.icu/atom.xml" rel="self"/>
   
   <link href="http://insanman.icu/"/>
-  <updated>2023-04-20T14:21:51.887Z</updated>
+  <updated>2023-04-20T15:07:19.724Z</updated>
   <id>http://insanman.icu/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>杨海波</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo+Github博客搭建教程</title>
+    <link href="http://insanman.icu/2023/04/20/hexo-github-bo-ke-da-jian-jiao-cheng/"/>
+    <id>http://insanman.icu/2023/04/20/hexo-github-bo-ke-da-jian-jiao-cheng/</id>
+    <published>2023-04-20T14:49:46.000Z</published>
+    <updated>2023-04-20T15:07:19.724Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;1-搭建环境&quot;&gt;&lt;a href=&quot;#1-搭建环境&quot; class=&quot;headerlink&quot; title=&quot;1. 搭建环境&quot;&gt;&lt;/a&gt;1.</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>新建博客文章名</title>
