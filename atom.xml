@@ -6,7 +6,7 @@
   <link href="http://insanman.icu/atom.xml" rel="self"/>
   
   <link href="http://insanman.icu/"/>
-  <updated>2023-04-20T12:27:02.745Z</updated>
+  <updated>2023-04-20T14:21:51.887Z</updated>
   <id>http://insanman.icu/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新建博客文章名</title>
+    <link href="http://insanman.icu/2023/04/20/xin-jian-bo-ke-wen-zhang-ming/"/>
+    <id>http://insanman.icu/2023/04/20/xin-jian-bo-ke-wen-zhang-ming/</id>
+    <published>2023-04-20T14:20:29.000Z</published>
+    <updated>2023-04-20T14:21:51.887Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;2023年4月20日&lt;/p&gt;
+&lt;p&gt;可以访问，主题安装成功了，每天进步一点点？&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
