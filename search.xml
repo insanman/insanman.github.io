@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>ChatGpt介绍</title>
+      <link href="/archives/a91ed90d.html"/>
+      <url>/archives/a91ed90d.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="平台介绍"><a href="#平台介绍" class="headerlink" title="平台介绍"></a>平台介绍</h1><p>ChatGPT是一个由OpenAl开发的基于GPT-3.5的大语言模型,<br>可以与人进行自然、流畅、有趣的对话，也可以生成各种类型的内容，如诗歌、故事、代码等。它使用基于人类反馈的强化学习进行训练，可以根据用户的喜好和情绪进行调整。</p><blockquote><p>访问https:llchat.openai.com，登录后即可使用。注意:目前只能在国外使用，国内用不了。</p></blockquote><h1 id="界面介绍"><a href="#界面介绍" class="headerlink" title="界面介绍"></a>界面介绍</h1><p>ChatGpt的界面分为四个区域：</p><ol><li>会话区：可以新增会话，还可以选择历史会话</li><li>功能区：目前从上到下的功能依次是清除会话、升级到Plus、设置、帮助、退出登录。</li><li>聊天区：包括你的问题和机器人的回复。</li><li>输入区：可以输入你的任何问题<img src="https://typora-images-yang.oss-cn-chengdu.aliyuncs.com/img/202305082242899.png" alt="image-20230508224217768"></li></ol><h1 id="前世今生"><a href="#前世今生" class="headerlink" title="前世今生"></a>前世今生</h1><p>大家可能会好奇它是怎么做到的?以前的人工智能都在干啥，为啥像人工智障一样?这要从NLP的历史和ChatGPT的历史聊起。<br>NLP就是自然语言处理(Natural Language Processing)<br>，它的发展阶段及商用场景如下:</p><pre class="line-numbers language-ABAP" data-language="ABAP"><code class="language-ABAP">1.20世纪50年代到70年代，基于规则，用于机器翻译，效果不佳。2.20世纪70年代到21世纪初，基于统计，做到了语音识别3.2008年到2019年，基于深度学习，简单对话的聊天机器人和google翻译。4.2020年至今，基于Transformer和大规模预训练数据，发展出了GPT-3、ChatGPT。<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span></span></code></pre><p><img src="https://typora-images-yang.oss-cn-chengdu.aliyuncs.com/img/202305082258223.png" alt="img"></p><p>从2018年起，OpenAI就开始发布生成式预训练语言模型GPT(Generative Pre-trainedTransformer)，可用于生成文章、代码、机器翻译、问答等各类内容。每一代GPT模型的参数量都爆炸式增长，2019年2月发布的GPT-2参数量为15亿，在2020年5月，OpenAl发布了GPT-3，它已经是世界上最先进的自然语言生成模型。GPT-3具有1750亿个参数。最新的GPT4模型规模达到了6000亿个参数。<br>GPT的参数是指模型中的权重和偏置，类似于咱们学过的中学生物里神经元上的连接，人脑大约有860亿个神经元，GPT没有公布它的模型里神经元的个数，但上千亿个参数基本接近于人脑了，还有1万个V100 GPU(价值上亿美元)组成的高性能网络集群，怪不得它如此厉害!</p><h1 id="ChatGpt能做什么？"><a href="#ChatGpt能做什么？" class="headerlink" title="ChatGpt能做什么？"></a>ChatGpt能做什么？</h1><h3 id="咱们先通过两个实际例子看下ChatGPT的能力。"><a href="#咱们先通过两个实际例子看下ChatGPT的能力。" class="headerlink" title="咱们先通过两个实际例子看下ChatGPT的能力。"></a><strong>咱们先通过两个实际例子看下ChatGPT的能力。</strong></h3><p>1、你是一个新手宝妈，孩子有过敏性鼻炎，晚上睡觉总是张嘴，偶尔还打呼噜，搜了小红书、知乎、宝宝树里的各种知识，寻医问药好几个月，今天试试问问ChatGPT:幼儿有过敏性鼻炎怎么办?</p><p><img src="https://typora-images-yang.oss-cn-chengdu.aliyuncs.com/img/202305082248096.png" alt="image-20230508224824689"></p><p>2、你是一个网络小说写手，今天需要描写一个新出场的女性，问问ChatGPT:请描写一个善良女性的气质外貌。</p><p><img src="https://typora-images-yang.oss-cn-chengdu.aliyuncs.com/img/202305082249833.png" alt="image-20230508224922324"></p><h3 id="六大能力"><a href="#六大能力" class="headerlink" title="六大能力"></a>六大能力</h3><ol><li><p>语言表达能力<br>可以使用多种语言进行交流，并能够理解和生成自然语言的语句和文本。</p></li><li><p>语言翻译能力<br>可以将一种语言的文本翻译成另一种语言</p></li><li><p>自然语言处理能力</p><p>能够识别和分析自然语言文本中的语法、语义和情感信息，并根据这些信息进行推理和生成回答</p></li><li><p>文本生成能力</p><p>能够基于输入的提示或条件生成自然语言的文本，例如生成故事、新闻报道、简历等。</p></li><li><p>知识储备能力</p><p>可以对各个领域的知识进行储备，并能够在需要时利用这些知识来回答问题和生成文本</p></li><li><p>图像处理能力</p><p><strong>ChatGpt4</strong>可以直接输入图像，并令其用语言描述图像内容，还可以基于图片向其提问题</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> ChatGpt </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>His全业务流程图</title>
       <link href="/archives/6e27f2f0.html"/>
       <url>/archives/6e27f2f0.html</url>
