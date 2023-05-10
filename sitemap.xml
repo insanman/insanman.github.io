@@ -4,7 +4,7 @@
   <url>
     <loc>http://insanman.icu/archives/a91ed90d.html</loc>
     
-    <lastmod>2023-05-08</lastmod>
+    <lastmod>2023-05-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -30,15 +30,6 @@
   
   <url>
     <loc>http://insanman.icu/archives/95771693.html</loc>
-    
-    <lastmod>2023-04-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://insanman.icu/archives/9e43dbe9.html</loc>
     
     <lastmod>2023-04-26</lastmod>
     
@@ -121,7 +112,7 @@
 
   <url>
     <loc>http://insanman.icu/</loc>
-    <lastmod>2023-05-08</lastmod>
+    <lastmod>2023-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -131,21 +122,21 @@
   
   <url>
     <loc>http://insanman.icu/categories/%E7%90%86%E8%B4%A2/</loc>
-    <lastmod>2023-05-08</lastmod>
+    <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://insanman.icu/categories/His/</loc>
-    <lastmod>2023-05-08</lastmod>
+    <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://insanman.icu/categories/ChatGpt/</loc>
-    <lastmod>2023-05-08</lastmod>
+    <loc>http://insanman.icu/categories/ChatGPT/</loc>
+    <lastmod>2023-05-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
