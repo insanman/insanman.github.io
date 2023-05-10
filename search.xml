@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>学会与ChatGpt对话</title>
+      <link href="/archives/7e9672e5.html"/>
+      <url>/archives/7e9672e5.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="一、什么是Prompt（提示）？"><a href="#一、什么是Prompt（提示）？" class="headerlink" title="一、什么是Prompt（提示）？"></a>一、什么是Prompt（提示）？</h1><ol><li><p>概念</p><p>我们在使用GPT的时候，发送的消息就是Prompt</p><p>例如，当我们问ChatGpt”Office是什么软件”：<img src="https://typora-images-yang.oss-cn-chengdu.aliyuncs.com/img/202305102122267.png" alt="image-20230510212203183"></p><p>其中”Office是什么软件”这句话就是Prompt</p></li><li><p>为什么要学习Prompt？</p><p>Prompt是我们和Gpt交流的方式，我们需要让Gpt了解我们的想法，明白我们的意图，从而给出更加适合和有用的回答</p><p>下面我们来看一个例子：</p><p>假设我放假后想要去全国文明城市-山东旅游，希望Gpt帮我给出旅游行程，如果我没有专门学过Prompt，那么我可能会问“山东哪里好玩？”<img src="https://typora-images-yang.oss-cn-chengdu.aliyuncs.com/img/202305102130488.png" alt="image-20230510213021412"></p><p>这可能不是一个很好的Prompt,因为ChatGPT并没有给我介绍列出来的这些贵阳景点,也没有帮助我们给出行程安排.<br>如果我专门学习过Prompt,那我可能会这样问ChatGPT:</p><pre class="line-numbers language-none"><code class="language-none">"现在我们来玩一个扮演游戏,你扮演一个资深的旅游达人,你非常熟悉山东市,尤其是山东的景点.我是一名将要到山东旅游的游客,请给我介绍山东最适合旅游的景点,要求分点给出.最好给我制作一份五天的旅游规划."<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p><img src="https://typora-images-yang.oss-cn-chengdu.aliyuncs.com/img/202305102137902.png" alt="image-20230510213732776"></p><p>这个Prompt并不差，因为它让ChatGPT即给出了景点的介绍，又给出了旅游规划建议</p></li><li><p>好的Prompt和坏的Prompt有什么差别呢？<br><img src="https://typora-images-yang.oss-cn-chengdu.aliyuncs.com/img/202305102140124.png" alt="image-20230510214002081"></p></li></ol><p>二、如何学习Prompt?</p><ol><li><p>Prompt的四个原则</p><ul><li>Instruction:指令，即我们想要gpt做的事情。</li><li>Context：背景信息，也可以 说是上下文信息，告诉gpt现在是什么情况，这可以引导gpt做出更好的反应。</li><li>Input Data：输入数据，告知gpt需要处理的数据和内容。</li><li>Output Indicator: 输出规则，告知gpt需要按什么格式回答。</li></ul><table><thead><tr><th>例子</th></tr></thead><tbody><tr><td><img src="https://typora-images-yang.oss-cn-chengdu.aliyuncs.com/img/202305102151713.png" alt="image-20230510215110651"></td></tr></tbody></table><pre class="line-numbers language-ABAP" data-language="ABAP"><code class="language-ABAP">在这个案例中：'Instruction'：你只是这本书,你不是ChatGPT，你没有除了这本书以外的任何知识不要说任何无关的东西，不知道就说不知道。'Context': 我们来进行一场扮演，你要装成是丹尼尔的《科学学习》'Input Data':我的第一个问题是:"睡眠是如何影响学习的?"'Output Indicator':将你的答案分点给出,<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span></span></code></pre></li><li><p>Prompt场景案例</p><p><img src="https://typora-images-yang.oss-cn-chengdu.aliyuncs.com/img/202305102156712.png" alt="image-20230510215648896"></p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> ChatGPT </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ChatGpt介绍</title>
       <link href="/archives/a91ed90d.html"/>
       <url>/archives/a91ed90d.html</url>
