@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://insanman.icu/archives/92c807d2.html</loc>
+    
+    <lastmod>2023-11-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://insanman.icu/archives/7e9672e5.html</loc>
     
     <lastmod>2023-05-10</lastmod>
@@ -121,7 +130,7 @@
 
   <url>
     <loc>http://insanman.icu/</loc>
-    <lastmod>2023-05-10</lastmod>
+    <lastmod>2023-11-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -131,21 +140,21 @@
   
   <url>
     <loc>http://insanman.icu/categories/ChatGPT/</loc>
-    <lastmod>2023-05-10</lastmod>
+    <lastmod>2023-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://insanman.icu/categories/His/</loc>
-    <lastmod>2023-05-10</lastmod>
+    <lastmod>2023-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://insanman.icu/categories/%E7%90%86%E8%B4%A2/</loc>
-    <lastmod>2023-05-10</lastmod>
+    <lastmod>2023-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
